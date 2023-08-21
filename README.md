@@ -11,3 +11,6 @@ Here is the procedure to connect device to bluetooth-
 5. It would show the list of devices , click on the smart lamp's address that was paired in the main option.
 6. After successful connection , the listpicker would show connected.
 7. Now we can use different features of the application.
+
+
+<img src="https://github.com/Adityav2003/SmartLamp/assets/123373129/ec93d69b-1ffc-47db-8b57-9baf6c72e699" alt="Application" width="300px" height="400px">
