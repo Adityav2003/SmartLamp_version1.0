@@ -21,3 +21,4 @@ Here is the procedure to connect device to bluetooth-
 
 ### Overview
 The contribution aims to develope the application version as well as the hardware to wifi. More home appliances can be implemented and added into the setup. Probably the bluetooth module can be shifted to wifi module.
+
